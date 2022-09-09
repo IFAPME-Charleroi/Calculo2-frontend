@@ -1,0 +1,88 @@
+{
+  "title": "Calcul'O²",
+  "language": "Langue",
+  "more_details": "Plus de détails",
+  "close": "Fermer",
+  "description": {
+    "part1": "La plateforme Calcul'O² présente de manière simple et intuitive les économies d'énergie et d'émissions de gaz à effet de serre obtenues grâce à la stratégie de rénovation du bâti wallon.",
+    "part2": "La plateforme utilise les Open Data des travaux économiseurs d’énergie financés par la Wallonie par l’intermédiaire des UAP concernées. (SWCS, Fonds du logement…)",
+    "detail": "*basé sur l'isolation de toiture par entrepreneur/demandeur R>4,5m²K/W"
+  },
+  "card_eco_energy": {
+    "title": "Économies d'énergie",
+    "description": "Graphique détaillant l'énergie économisée par année en Wallonie",
+    "energy_modal" : {
+      "title": "Comparatif de gain d'énergie par année",
+      "description": "Le comparatif de gain d'énergie présente l'économie d'énergie réalisée par année en kWh. Ces données concernent uniquement les travaux de toiture et d'isolation réalisés par la SWCS (= Société wallonne du crédit social) depuis 2016."
+    }
+  },
+  "card_eco_co2": {
+    "title": "Réduction d'émissions de CO²",
+    "description": "Découvrez les réductions d'émissions de CO² réalisées par les logements wallons.",
+    "co2_modal" : {
+      "title": "Réduction d'émissions de CO²",
+      "description": "Ce graphique représente la réduction d'émissions de CO² exprimé en kilogramme par an en Wallonie. Ces données concernent uniquement les travaux de toiture et d'isolation réalisés par la SWCS depuis 2016."
+    }
+  },
+  "card_form_calcul": {
+    "title": "Votre toiture et vous",
+    "description": "Vous souhaitez effectuer des travaux d'isolation de toiture, mais vous ignorez l'impact que ceux-ci auront sur votre consommation actuelle ? Nous sommes là pour vous aider ! Cliquez pour en savoir plus.",
+    "co2_modal" : {
+      "title": "Votre toiture et vous",
+      "description": "Simulez vos travaux d'isolation en ligne grâce à notre outil de calcul. Avec celui-ci, vous prendrez connaissance de l'estimation d'économie d'énergie et de CO².",
+      "form_result": {
+        "title": "Votre estimation :",
+        "energy_eco": "KW/H économisés par an",
+        "tarif_eco": "Economies moyennes : ",
+        "tarif_tarif": "tarif 09/2022 : ",
+        "tarif_taxes": "taxes comprises",
+        "co2_eco": "Tonnes de CO² économisés par an"
+      },
+      "form": {
+        "work_type": "Toiture",
+        "heating_type": {
+          "title": "Choisissez...",
+          "options": {
+            "1": "Chauffage gaz",
+            "2": "Chauffage mazout",
+            "3": "Chauffage électrique",
+            "4": "Chauffage bois"
+          }
+        }
+      }
+    }
+  },
+  "card_map_data": {
+    "title": "Selectionnez un arrondissement sur la carte.",
+    "title_district": "Données de l'arrondissement de",
+    "graph_title_cost": "Coût total",
+    "graph_title_prime": "Total des primes",
+    "legend": {
+      "title": "Nombre de travaux d'isolation de toiture par arrondissements.",
+      "more": "Plus",
+      "less": "Moins"
+    },
+    "card_data": {
+      "title": "Données de l'année",
+      "cost_renovation_title": "Coût total des rénovations",
+      "cost_renovation_desc": "ont été investi dans des travaux de rénovation de toiture.",
+      "cost_building_title": "Stats des bâtiments rénovés",
+      "stat_building_desc_part1": " toiture a été rénovée sur un total de ",
+      "stat_building_desc_part1_null": " toiture rénovée sur un total de ",
+      "stat_building_desc_part1_pl": " toitures ont été rénovées sur un total de ",
+      "stat_building_desc_part2": " bâtiments existant dans cet arrondissement.",
+      "total_prime_title": "Estimation du total des primes accordées",
+      "total_prime_desc": "de primes ont été accordées pour aider à la rénovation."
+    }
+  },
+  "footer": {
+    "rights": "© 2022 Calcul'O²™. Tous droits réservés",
+    "about_us": "À propos de nous",
+    "calcul_used": "Calculs utilisés"
+  },
+  "loading": {
+    "title": "Chargement en cours ...",
+    "content": "Veuillez patienter pendant que nous chargeons les données."
+  },
+  "easter_egg": "Et paf, CONFETTIS !"
+}

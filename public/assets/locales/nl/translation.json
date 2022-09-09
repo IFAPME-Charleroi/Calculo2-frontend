@@ -1,0 +1,88 @@
+{
+  "title": "Calcul'O²",
+  "language": "Taal",
+  "more_details": "Meer details",
+  "close": "Sluiten",
+  "description": {
+    "part1": "Het Calcul'O²-platform stelt op een eenvoudige en intuïtieve manier de besparingen voor op het vlak van energie en broeikasgasemissies dankzij de Waalse strategie voor renovatie van gebouwen.",
+    "part2": "Het platform maakt gebruik van de Open Data van de energiebesparende werken die door Wallonië worden gefinancierd via de betrokken UAP (SWCS, Woningfonds ...)",
+    "detail": "*op basis van dakisolatie per aannemer/aanvrager R>4,5m²K/W"
+  },
+  "card_eco_energy": {
+    "title": "Energiebesparing",
+    "description": "Grafiek van de energiebesparing per jaar in Wallonië",
+    "energy_modal" : {
+      "title": "Vergelijkende energiebesparing per jaar",
+      "description": "De vergelijking van de energiebesparing toont de energiebesparing per jaar in kWh. Deze gegevens hebben alleen betrekking op de dakbedekkings- en isolatiewerken die sinds 2016 door de SWCS (= Societé Wallonne du crédit social) zijn uitgevoerd."
+    }
+  },
+  "card_eco_co2": {
+    "title": "Vermindering van de CO²-uitstoot",
+    "description": "Ontdek de CO2-emissiereducties van de Waalse huisvesting.",
+    "co2_modal" : {
+      "title": "Vermindering van de CO²-uitstoot",
+      "description": "Deze grafiek toont de vermindering van de CO2-uitstoot per jaar in Wallonië. Deze gegevens hebben alleen betrekking op de dakbedekkings- en isolatiewerkzaamheden die SWCS sinds 2016 heeft uitgevoerd."
+    }
+  },
+  "card_form_calcul": {
+    "title": "Uw dak en u",
+    "description": "Wilt u uw dak isoleren, maar weet u niet welke impact dit zal hebben op uw huidige verbruik? Wij kunnen helpen! Klik hier voor meer informatie.",
+    "co2_modal" : {
+      "title": "Uw dak en u",
+      "description": "Simuleer uw isolatiewerkzaamheden online met onze berekeningstool. Met deze tool ziet u de geschatte energie- en CO²-besparing.",
+      "form_result": {
+        "title": "Uw schatting:",
+        "energy_eco": "Bespaarde KW/H per jaar",
+        "tarif_eco": "Gemiddelde besparing : ",
+        "tarif_tarif": "tarief 04/2022 : ",
+        "tarif_taxes": "btw inbegrepen",
+        "co2_eco": "Ton bespaarde CO² per jaar"
+      },
+      "form": {
+        "work_type": "Dakbedekking",
+        "heating_type": {
+          "title": "Kies er één...",
+          "options": {
+            "1": "Gasverwarming",
+            "2": "Olieverwarming",
+            "3": "Elektrische verwarming",
+            "4": "Houtverwarming"
+          }
+        }
+      }
+    }
+  },
+  "card_map_data": {
+    "title": "Selecteer een district op de kaart.",
+    "title_district": "Gegevens van de gemeente",
+    "graph_title_cost": "Totale kosten",
+    "graph_title_prime": "Totaal premies",
+    "legend": {
+      "title": "Aantal dakisolatiewerkzaamheden per wijk.",
+      "more": "Meer",
+      "less": "Minder"
+    },
+    "card_data": {
+      "title": "Gegevens voor het jaar",
+      "cost_renovation_title": "Totale kosten van de renovaties",
+      "cost_renovation_desc": "werden geïnvesteerd in dakrenovaties.",
+      "cost_building_title": "Statistieken van gerenoveerde gebouwen",
+      "stat_building_desc_part1": " dak werd gerenoveerd op een totaal van ",
+      "stat_building_desc_part1_null": " daken gerenoveerd op een totaal van ",
+      "stat_building_desc_part1_pl": " daken werden gerenoveerd op een totaal van ",
+      "stat_building_desc_part2": " gebouwen in het district.",
+      "total_prime_title": "Geschat totaal toegekende premies",
+      "total_prime_desc": "aan subsidies werden toegekend om te helpen bij de renovatie."
+    }
+  },
+  "footer": {
+    "rights": "© 2022 Calcul'O²™. Alle rechten voorbehouden",
+    "about_us": "Over ons",
+    "calcul_used": "Gebruikte berekeningen"
+  },
+  "loading": {
+    "title": "Bezig met laden ...",
+    "content": "Wacht alstublieft terwijl we de gegevens laden."
+  },
+  "easter_egg": "En paf, CONFETTIS !"
+}

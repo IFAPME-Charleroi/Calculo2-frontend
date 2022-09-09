@@ -1,0 +1,90 @@
+{
+  "title": "Calcul'O²",
+  "language": "Sprache",
+  "more_details": "Mehr Details",
+  "close": "Schließen",
+  "description": {
+    "part1": "Die Plattform Calcul'O² zeigt auf einfache und intuitive Weise die Einsparungen an Energie und Treibhausgasemissionen, die durch die Sanierungsstrategie für die wallonische Bausubstanz erzielt wurden.",
+    "part2": "Die Plattform nutzt die Open Data der energiesparenden Arbeiten, die von der Wallonie durch die betreffenden UAPs (SWCS, Fonds du logement ...) finanziert werden.",
+    "detail": "*basierend auf Dachisolierung durch Bauunternehmer/Antragsteller R>4,5m²K/W"
+  },
+  "card_eco_energy": {
+    "title": "Energieeinsparungen",
+    "description": "Detaillierte Grafik der eingesparten Energie pro Jahr in Wallonien",
+    "energy_modal" : {
+      "title": "Vergleich des Energiegewinns pro Jahr",
+      "description": "Der Energiegewinn-Vergleich zeigt die pro Jahr erzielte Energieeinsparung in kWh. Diese Daten beziehen sich nur auf Dach- und Isolierungsarbeiten, die von der SWCS (= Societé Wallonne du crédit social) seit 2016 durchgeführt wurden."
+    }
+  },
+  "card_eco_co2": {
+    "title": "Reduzierung von CO²-Emissionen",
+    "description": "Erfahren Sie, wie viel CO²-Emissionen durch wallonische Wohnungen eingespart wurden.",
+    "co2_modal" : {
+      "title": "Reduzierung von CO²-Emissionen",
+      "description": "Diese Grafik stellt die Reduzierung der CO²-Emissionen pro Jahr in Wallonien dar. Diese Daten beziehen sich nur auf die Dach- und Isolierungsarbeiten, die von der SWCS seit 2016 durchgeführt wurden."
+    }
+  },
+  "card_form_calcul": {
+    "title": "Ihr Dach und Sie",
+    "description": "Sie möchten Ihr Dach isolieren, wissen aber nicht, wie sich das auf Ihren derzeitigen Energieverbrauch auswirken wird? Wir sind hier, um Ihnen zu helfen! Klicken Sie hier, um mehr zu erfahren.",
+    "co2_modal" : {
+      "title": "Ihr Dach und Sie",
+      "description": "Simulieren Sie Ihre Isolierungsarbeiten online mit unserem Berechnungstool. Mit diesem erfahren Sie, wie viel Energie und CO² Sie voraussichtlich einsparen werden.",
+      "form_result": {
+        "title": "Ihre Einschätzung :",
+        "energy_eco": "kW/St pro Jahr",
+        "tarif_eco": "Durchschnittliche ersparnis : ",
+        "tarif_tarif": "bewertung 04/2022 : ",
+        "tarif_taxes": "Steuern inbegriffen",
+        "co2_eco": "Eingesparte CO²-Tonnen pro Jahr"
+      },
+      "form": {
+        "work_type": "Dach",
+        "heating_type": {
+          "title": "Wählen Sie...",
+          "options": {
+            "1": "Gas-Heizung",
+            "2": "Öl-Heizung",
+            "3": "Elektrische Heizung",
+            "4": "Holzheizung"
+          }
+        }
+      }
+    }
+  },
+  "card_map_data": {
+    "title": "Wählen Sie einen Bezirk auf der Karte aus.",
+    "title_district": "Daten aus dem Bezirk",
+    "graph_title_cost": "Gesamtkosten",
+    "graph_title_prime": "Summe der Prämien",
+    "legend": {
+      "title": "Anzahl der Dachisolierungsarbeiten nach Bezirken.",
+      "more": "Mehr",
+      "less": "Weniger"
+    },
+    "card_data": {
+      "title": "Daten des Jahres",
+      "cost_renovation_title": "Gesamtkosten der Renovierung",
+      "cost_renovation_desc": "wurden in Dachrenovierungen investiert.",
+      "cost_building_title": "Statistiken über renovierte Gebäude",
+
+      "stat_building_desc_part1": " Dach wurde von insgesamt ",
+      "stat_building_desc_part1_null": " renovierte Dächer von insgesamt ",
+      "stat_building_desc_part1_pl": " Dächer von insgesamt ",
+
+      "stat_building_desc_part2": " Gebäuden, die in diesem Bezirk existieren, renoviert.",
+      "total_prime_title": "Geschätzte Gesamtsumme der gewährten Prämien",
+      "total_prime_desc": "Prämien wurden gewährt, um Renovierungsarbeiten zu unterstützen."
+    }
+  },
+  "footer": {
+    "rights": "© 2022 Calcul'O²™. Alle Rechte vorbehalten.",
+    "about_us": "Über uns",
+    "calcul_used": "Verwendete Berechnungen"
+  },
+  "loading": {
+    "title": "Ladevorgang läuft ...",
+    "content": "Bitte warten Sie, während wir die Daten hochladen."
+  },
+  "easter_egg": "Und schwupps, KONFETTIS!"
+}
